@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "沙发1",
+    "path": "/assets/models/shafa/",
+    "mtl": "Ajia_shafa_10632816835.mtl",
+    "obj": "Ajia_shafa_10632816835.obj",
+    "ico": "/assets/modelico/1.png"
+  },
+  {
+    "id": 2,
+    "name": "沙发2",
+    "path": "/assets/models/shafa2/",
+    "mtl": "AJia_shafa_5561759.mtl",
+    "obj": "AJia_shafa_5561759.obj",
+    "ico": "/assets/modelico/2.png"
+  },
+  {
+    "id": 3,
+    "name": "沙发3",
+    "path": "/assets/models/shafa3/",
+    "mtl": "AJia_shafa_15456235466.mtl",
+    "obj": "AJia_shafa_15456235466.obj",
+    "ico": "/assets/modelico/3.png"
+  }
+]

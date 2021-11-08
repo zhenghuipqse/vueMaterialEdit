@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "沙发",
+    "ico": "/assets/modeltypeico/1.png"
+  },
+  {
+    "id": 2,
+    "name": "单椅",
+    "ico": "/assets/modeltypeico/2.png"
+  },
+  {
+    "id": 3,
+    "name": "窗帘",
+    "ico": "/assets/modeltypeico/3.png"
+  },
+  {
+    "id": 4,
+    "name": "茶几",
+    "ico": "/assets/modeltypeico/4.png"
+  },
+  {
+    "id": 5,
+    "name": "边柜",
+    "ico": "/assets/modeltypeico/5.png"
+  },
+  {
+    "id": 6,
+    "name": "餐桌",
+    "ico": "/assets/modeltypeico/6.png"
+  },
+  {
+    "id": 7,
+    "name": "床",
+    "ico": "/assets/modeltypeico/7.png"
+  },
+  {
+    "id": 8,
+    "name": "灯具",
+    "ico": "/assets/modeltypeico/8.png"
+  },
+  {
+    "id": 9,
+    "name": "挂饰",
+    "ico": "/assets/modeltypeico/9.png"
+  },
+  {
+    "id": 10,
+    "name": "绿植",
+    "ico": "/assets/modeltypeico/10.png"
+  }
+]
